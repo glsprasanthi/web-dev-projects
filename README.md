@@ -1,2 +1,2 @@
-# html-projects
-Beginner HTML projects and web development practice.
+# webdev-projects
+Beginner projects and web development practice.
